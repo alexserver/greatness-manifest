@@ -6,7 +6,7 @@ A [Manifesto](http://www.merriam-webster.com/dictionary/manifesto): Is a written
 
 ##Full Disclosure
 
-Before you read this. This document is intended to be a guide for 1 mission only. The mission to achieve Greatness in your field. Regardless of what tha field may be. At the time of writing this document all authors should **give up** any assumptions of the reader's condition. Those of you reading this work should also **give up** any assumption you may have on the authors. 
+Before you read this. This document is intended to be a guide for one mission only: the mission to achieve Greatness in your field. Regardless of what that field may be. At the time of writing this document all authors should **give up** any assumptions of the reader's condition. Those of you reading this work should also **give up** any assumption you may have on the authors. 
 
 ###The purpose of this work
 
@@ -16,11 +16,12 @@ We do not presume to be able to teach **Greatness** as it cannot be really teach
 
 ###Why are we doing this?
 
-TODO
+We started this document in the need for a public asset to guide us for the achievement of **Greatness**.
+We think that **Greatness** is a value that anyone has the right to pursuit; like happiness. Indeed, as well as the happiness, **Greatness** is a human being right, and for those that want to generate such big positive impact on society, an obligation.
 
 ###Who are we?
 
-TODO
+We're just a group of enthusiast humans that want to make positive things.
 
 ##Statements
 
@@ -28,7 +29,9 @@ TODO
 
 ###Writen by humans for humans
 
-TODO
+What makes our race great, and has had let us to progress over time, is a set of values like emphaty, love, commitment, passion, and the ability of share. By sharing we make ourselves a collaborative race, then we share our knowledge, cheating the trap of mortality. A human life is short, but knowledge can live forever as long as we share it.
+We're glad to being born in times where information can be shared widely.
+We're glad to being born in times where humankind has moved forward far away. And we're looking forward to see what's comming for us.
 
 
-Revision 2
+Revision 3
